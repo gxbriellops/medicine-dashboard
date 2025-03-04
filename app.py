@@ -531,3 +531,5 @@ def clear_filters(n_clicks):
 # Execução do app
 if __name__ == '__main__':
     app.run_server(debug=True)
+else:
+    server = app.server
