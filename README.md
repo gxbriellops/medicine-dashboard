@@ -2,7 +2,7 @@
 
 Um painel interativo para auxiliar na escolha de profissionais médicos, construído com Dash e Plotly.
 
-![Dashboard Preview](https://via.placeholder.com/800x400?text=Dashboard+Preview)
+![Dashboard Preview](https://github.com/gxbriellops/medicine-dashboard/blob/main/Desktop-2025.03.08-15.17.43.02_1.gif)
 
 ## Descrição
 
